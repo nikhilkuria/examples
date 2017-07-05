@@ -12,7 +12,7 @@ import org.apache.kafka.streams.kstream.KStreamBuilder;
 
 /**
  * @author nikhilkuria
- * Simple reader which listens to a stream and prints incoming data
+ * Simple reader which listens to a topic and prints incoming data
  */
 public class SimpleNumberStreamReader {
 
